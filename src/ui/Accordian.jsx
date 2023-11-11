@@ -22,8 +22,7 @@ const AccordionHeader = styled.div`
 const AccordionContent = styled.div`
   padding: 24px;
   font-size: 16px;
-  line-height: 1.8;
-  background-color: #101320;
+  background-color: #080c18;
   display: ${({ isOpen }) => (isOpen ? 'block' : 'none')};
   transition: height 0.3s ease;
   overflow: hidden;
