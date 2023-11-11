@@ -24,7 +24,7 @@ const Wrapper = styled.div`
   height: 100vh;
   width: 100vw-80px;
   z-index: 1;
-  background-image: url('public/images/signup-background.jpg');
+  background-image: url('/images/signup-background.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

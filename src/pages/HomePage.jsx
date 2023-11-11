@@ -7,7 +7,7 @@ import Category from '../components/Category'
 import Loader from '../ui/Loader'
 
 const StyledHome = styled.div`
-  background-image: url('public/images/home-background.png');
+  background-image: url('/images/home-background.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
