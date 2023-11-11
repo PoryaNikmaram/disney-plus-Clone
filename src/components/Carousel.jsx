@@ -69,16 +69,16 @@ function Carousel() {
         autoplay-delay="3500"
       >
         <swiper-slide>
-          <Img src="public/images/slider-badag.jpg" alt="" />
+          <Img src="/images/slider-badag.jpg" alt="" />
         </swiper-slide>
         <swiper-slide>
-          <Img src="public/images/slider-badging.jpg" alt="" />
+          <Img src="/images/slider-badging.jpg" alt="" />
         </swiper-slide>
         <swiper-slide>
-          <Img src="public/images/slider-scale.jpg" alt="" />
+          <Img src="/images/slider-scale.jpg" alt="" />
         </swiper-slide>
         <swiper-slide>
-          <Img src="public/images/slider-scales.jpg" alt="" />
+          <Img src="/images/slider-scales.jpg" alt="" />
         </swiper-slide>
       </swiper-container>
       <CarouselButton ref={prevBtnEl}>

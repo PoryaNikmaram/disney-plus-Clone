@@ -168,7 +168,7 @@ function Navbar() {
   }
   return (
     <StyledNavbar user={userName}>
-      <Logo src="public/images/logo.svg" />
+      <Logo src="/images/logo.svg" />
       {userName && (
         <Navigation>
           <StyledLink to="/home">

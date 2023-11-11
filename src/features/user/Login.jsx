@@ -9,7 +9,7 @@ const Wrapper = styled.div`
   height: 88vh;
   width: 100vw;
   z-index: 1;
-  background-image: url('public/images/login-background.jpg');
+  background-image: url('/images/login-background.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -60,14 +60,14 @@ function Login() {
   return (
     <Wrapper>
       <Content>
-        <LogoOne src="public/images/cta-logo-one.svg" />
+        <LogoOne src="/images/cta-logo-one.svg" />
         <StyledLink to="/signup">Get All There</StyledLink>
         <Info>
           Get Premier Access to Raya and the Last Dragon for an additional fee
           with a Disney + subscription. As of 0./26/21, the price of disney+ and
           the Disney Bundle will increase by $1
         </Info>
-        <LogoTwo src="public/images/cta-logo-two.png" />
+        <LogoTwo src="/images/cta-logo-two.png" />
       </Content>
     </Wrapper>
   )

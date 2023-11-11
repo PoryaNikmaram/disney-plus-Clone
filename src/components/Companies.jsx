@@ -62,19 +62,19 @@ function Companies() {
   return (
     <StyledCompanies>
       <Company>
-        <Img src="public/images/viewers-disney.png" alt="" />
+        <Img src="/images/viewers-disney.png" alt="" />
         <Video autoPlay={true} loop={true} playsInline={true} muted>
           <source src="/videos/1564674844-disney.mp4" type="video/mp4" />
         </Video>
       </Company>
       <Company>
-        <Img src="public/images/viewers-marvel.png" alt="" />
+        <Img src="/images/viewers-marvel.png" alt="" />
         <Video autoPlay={true} loop={true} playsInline={true} muted>
           <source src="/videos/1564676115-marvel.mp4" type="video/mp4" />
         </Video>
       </Company>
       <Company>
-        <Img src="public/images/viewers-national.png" alt="" />
+        <Img src="/images/viewers-national.png" alt="" />
         <Video autoPlay={true} loop={true} playsInline={true} muted>
           <source
             src="/videos/1564676296-national-geographic.mp4"
@@ -83,13 +83,13 @@ function Companies() {
         </Video>
       </Company>
       <Company>
-        <Img src="public/images/viewers-pixar.png" alt="" />
+        <Img src="/images/viewers-pixar.png" alt="" />
         <Video autoPlay={true} loop={true} playsInline={true} muted>
-          <source src="public/videos/1564676714-pixar.mp4" type="video/mp4" />
+          <source src="/videos/1564676714-pixar.mp4" type="video/mp4" />
         </Video>
       </Company>
       <Company>
-        <Img src="public/images/viewers-starwars.png" alt="" />
+        <Img src="/images/viewers-starwars.png" alt="" />
         <Video autoPlay={true} loop={true} playsInline={true} muted>
           <source src="/videos/1608229455-star-wars.mp4" type="video/mp4" />
         </Video>

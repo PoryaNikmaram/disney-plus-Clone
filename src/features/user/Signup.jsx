@@ -173,28 +173,28 @@ function Signup() {
           streaming service.
         </Info>
       </SignupContent>
-      <Img src="public/images/disney-plus-h2.jpg" />
+      <Img src="/images/disney-plus-h2.jpg" />
       <SignupContent>
         <H1>Watch the way you want</H1>
         <Info>Enjoy the worlds greatest stories - anytime, anywhere.</Info>
       </SignupContent>
       <Testimonails>
         <Testimonail>
-          <TestImg src="public/images/movie.png" />
+          <TestImg src="/images/movie.png" />
           <H1>Endless entertainment</H1>
           <Info>
             Explore thousands of hours of TV series, movies and originals.
           </Info>
         </Testimonail>
         <Testimonail>
-          <TestImg src="public/images/device.png" />
+          <TestImg src="/images/device.png" />
           <H1>Available on your favourite devices</H1>
           <Info>
             Stream on up to four screens at once on compatible devices.
           </Info>
         </Testimonail>
         <Testimonail>
-          <TestImg src="public/images/user.png" />
+          <TestImg src="/images/user.png" />
           <H1>Easy-to-use parental controls</H1>
           <Info>
             Keep your family safe with our intuitive parental controls.
@@ -227,22 +227,22 @@ function Signup() {
       />
       <Testimonails devices="true">
         <Testimonail>
-          <TestImg src="public/images/tv.png" />
+          <TestImg src="/images/tv.png" />
           <H1>TV</H1>
           <Info>Android TV devices Apple TV Chromecast LG TVs Samsung</Info>
         </Testimonail>
         <Testimonail>
-          <TestImg src="public/images/computer.png" />
+          <TestImg src="/images/computer.png" />
           <H1>Computer</H1>
           <Info>Chrome OS MacOS Windows PC</Info>
         </Testimonail>
         <Testimonail>
-          <TestImg src="public/images/mobile.png" />
+          <TestImg src="/images/mobile.png" />
           <H1>Mobile & Tablet</H1>
           <Info>Android Phones & Tablets iPhone & iPad</Info>
         </Testimonail>
         <Testimonail>
-          <TestImg src="public/images/game.png" />
+          <TestImg src="/images/game.png" />
           <H1>Game Consoles</H1>
           <Info>PS4 PS5 Xbox One Xbox Series X Xbox Series S</Info>
         </Testimonail>
