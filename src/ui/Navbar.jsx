@@ -33,7 +33,7 @@ const StyledNavbar = styled.nav`
   padding: 1rem;
   z-index: 10;
 
-  background-color: ${(props) => (props.user ? '#040714' : 'transparent')};
+  background-color: #040714;
   @media only screen and (max-width: 780px) {
     & {
       gap: 15px;
