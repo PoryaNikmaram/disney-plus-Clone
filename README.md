@@ -23,3 +23,6 @@ ReactJs - Styled Components - Redux Toolkit - Firebase - Google Authentication
 # Acknowledgements
 
 This project was inspired by the Disney+ streaming service.
+
+take an online look 😉
+https://disneyyplus-clone.netlify.app/
